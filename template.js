@@ -13,7 +13,7 @@
 // ============================================
 // MY SOLUTION (before looking anything up)
 // ============================================
-// Approach: <describe your approach in 1-2 lines>
+// Approach: <describe your approach in your words>
 // Time: O(?)  Space: O(?)
 
 function solve(/* args */) {

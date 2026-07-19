@@ -2,7 +2,7 @@
 
 Daily data structures & algorithms practice, followed in a fixed order — easy foundations to advanced patterns — as part of a 6-month deep-dive into systems-level software engineering. Following along? Start at the top of the checklist and work down; this repo doubles as a learning path, not just a log.
 
-Documenting the journey here: [Instagram @buildwithvahid](#).
+Documenting the journey here: [Instagram @buildwithvahid](https://www.instagram.com/buildwithvahid).
 
 ## How to use this repo
 
@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 0 / 15 |
-| Problems solved   | 0      |
-| First-try optimal | 0      |
+| Problems solved   | 2      |
+| First-try optimal | 2      |
 
 _(update weekly during Sunday review)_
 
@@ -60,7 +60,26 @@ _(update weekly during Sunday review)_
 <details>
 <summary>Click to expand — date-by-date solve history</summary>
 
-| Date | Problem | Topic | First try = optimal? |
-| ---- | ------- | ----- | -------------------- |
+| Date       | Problem                             | Topic | First try = optimal? |
+| ---------- | ----------------------------------- | ----- | -------------------- |
+| 2026-07-20 | Second Largest                      | Array | ✅                   |
+| 2026-07-20 | Remove Duplicates from Sorted Array | Array | ✅                   |
 
 </details>
+
+## Commit message format
+
+Every problem is committed using the following format:
+
+```text
+<topic>: <what was solved>
+```
+
+Examples:
+
+```text
+array: find second largest value
+array: remove duplicates from sorted array
+two-pointers: container with most water
+linked-list: reverse linked list
+```
