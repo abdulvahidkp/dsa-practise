@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 0 / 15 |
-| Problems solved   | 2      |
-| First-try optimal | 2      |
+| Problems solved   | 4      |
+| First-try optimal | 4      |
 
 _(update weekly during Sunday review)_
 
@@ -65,6 +65,7 @@ _(update weekly during Sunday review)_
 | 2026-07-20 | Second Largest                      | Array | ✅                   |
 | 2026-07-20 | Remove Duplicates from Sorted Array | Array | ✅                   |
 | 2026-07-27 | Remove Element                      | Array | ✅                   |
+| 2026-07-27 | Reverse String                      | Array | ✅                   |
 
 </details>
 
