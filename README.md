@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 0 / 15 |
-| Problems solved   | 4      |
-| First-try optimal | 4      |
+| Problems solved   | 6      |
+| First-try optimal | 5      |
 
 _(update weekly during Sunday review)_
 
@@ -67,6 +67,7 @@ _(update weekly during Sunday review)_
 | 2026-07-27 | Remove Element                      | Array | ✅                   |
 | 2026-07-27 | Reverse String                      | Array | ✅                   |
 | 2026-07-28 | Best Time to Buy and Sell Stock     | Array | ✅                   |
+| 2026-07-28 | Merge Sorted Array                  | Array | ❌                   |
 
 </details>
 
