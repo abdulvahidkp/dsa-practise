@@ -66,6 +66,7 @@ _(update weekly during Sunday review)_
 | 2026-07-20 | Remove Duplicates from Sorted Array | Array | ✅                   |
 | 2026-07-27 | Remove Element                      | Array | ✅                   |
 | 2026-07-27 | Reverse String                      | Array | ✅                   |
+| 2026-07-28 | Best Time to Buy and Sell Stock     | Array | ✅                   |
 
 </details>
 
