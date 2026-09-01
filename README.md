@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 0 / 15 |
-| Problems solved   | 8      |
-| First-try optimal | 6      |
+| Problems solved   | 10     |
+| First-try optimal | 8      |
 
 _(update weekly during Sunday review)_
 
@@ -70,6 +70,8 @@ _(update weekly during Sunday review)_
 | 2026-07-28 | Merge Sorted Array                  | Array | ❌                   |
 | 2026-08-01 | Move Zeroes                         | Array | ❌                   |
 | 2026-08-01 | Max Consecutive Ones                | Array | ✅                   |
+| 2026-09-01 | Missing Number                      | Array | ✅                   |
+| 2026-09-01 | Single Number                       | Array | ✅                   |
 
 </details>
 
