@@ -1,6 +1,6 @@
 // LeetCode/Problem: Factorial of n
 // Link: <problem URL>
-// Date: 2026-09-03
+// Date: 2026-09-04
 
 // ============================================
 // PROBLEM

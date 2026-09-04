@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 1 / 15 |
-| Problems solved   | 13     |
-| First-try optimal | 10     |
+| Problems solved   | 14     |
+| First-try optimal | 11     |
 
 _(update weekly during Sunday review)_
 
@@ -75,6 +75,7 @@ _(update weekly during Sunday review)_
 | 2026-09-02 | Sum of first N Numbers              | Recursion | ✅                   |
 | 2026-09-03 | Sum of all numbers in array         | Recursion | ❌                   |
 | 2026-09-04 | Factorial of n                      | Recursion | ✅                   |
+| 2026-09-04 | Power of Two                        | Recursion | ✅                   |
 
 </details>
 
