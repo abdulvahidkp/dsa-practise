@@ -6,6 +6,40 @@
 // PROBLEM
 // ============================================
 // - Find the passed value power of two or not
+/* 
+
+Given an integer 'n', return true if it is a power of two. Otherwise, 
+return false.
+
+An integer n is a power of two if there exists an integer x such that:
+n == 2^x
+
+
+----------------------------------------------------------------------
+2. MATHEMATICAL UNDERSTANDING & EDGE CASES
+----------------------------------------------------------------------
+To build a correct solution, you must account for all domains of n:
+
+• Positive Values (n > 1): 
+  Standard powers of two. Numbers like 2, 4, 8, 16, 32, 64 can be 
+  divided by 2 repeatedly until they reach 1.
+
+• The Case of 1 (n == 1):
+  1 IS a power of two because 2^0 = 1. Your function must return true 
+  for n = 1.
+
+• The Case of 0 (n == 0):
+  0 IS NOT a power of two. There is no integer x where 2^x = 0. Your 
+  function must return false.
+
+• Negative Values (n < 0):
+  Negative numbers ARE NEVER powers of two. 
+  - Why? While negative exponents exist (e.g., 2^-1 = 0.5), they 
+    produce fractional values approaching zero, never negative integers 
+    like -2, -4, or -8. 
+  - Therefore, any input where n <= 0 must immediately return false.
+  
+*/
 
 // ============================================
 // CONSTRAINTS

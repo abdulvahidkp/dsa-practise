@@ -6,6 +6,23 @@
 // PROBLEM
 // ============================================
 // - Find the factorial of n using recursion
+/* 
+The factorial of a non-negative integer n, denoted by n!, is the product of all positive integers less than or equal to n. 
+
+Formula:
+n! = n × (n - 1) × (n - 2) × ... × 1
+
+Examples:
+• 5! = 5 × 4 × 3 × 2 × 1 = 120
+• 3! = 3 × 2 × 1 = 6
+
+What if n = 0?
+By mathematical definition, 0! = 1. 
+
+Why does 0! = 1?
+1. Combinatorics: The factorial of n represents the number of ways to arrange n objects. There is exactly 1 way to arrange 0 objects (an empty set).
+2. Pattern/Logic: We can write n! as n! = (n+1)! / (n+1). If we substitute n = 0, we get 0! = 1! / 1 = 1.
+*/
 
 // ============================================
 // CONSTRAINTS
