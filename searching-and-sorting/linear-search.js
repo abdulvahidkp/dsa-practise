@@ -23,11 +23,11 @@
 // - If the loop ends, then it means that the number is not present, so we can return -1 in that case.
 // Time: O(n)  Space: O(1)
 
-function solve(nums, num) {
+function solve(nums, target) {
   for (let i = 0; i < nums.length; i++) {
     const currVal = nums[i];
 
-    if (currVal === num) return i;
+    if (currVal === target) return i;
   }
 
   return -1;

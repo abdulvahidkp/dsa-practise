@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 2 / 15 |
-| Problems solved   | 16     |
-| First-try optimal | 13     |
+| Problems solved   | 17     |
+| First-try optimal | 14     |
 
 _(update weekly during Sunday review)_
 
@@ -78,6 +78,7 @@ _(update weekly during Sunday review)_
 | 2026-09-04 | Power of Two                        | Recursion           | ✅                   |
 | 2026-09-05 | Fibonacci Number                    | Recursion           | ✅                   |
 | 2026-09-05 | Linear Search                       | Searching & Sorting | ✅                   |
+| 2026-09-05 | Binary Search                       | Searching & Sorting | ✅                   |
 
 </details>
 
