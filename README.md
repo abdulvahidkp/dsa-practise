@@ -47,9 +47,9 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 
 | Metric            | Count  |
 | ----------------- | ------ |
-| Topics completed  | 1 / 15 |
-| Problems solved   | 15     |
-| First-try optimal | 12     |
+| Topics completed  | 2 / 15 |
+| Problems solved   | 16     |
+| First-try optimal | 13     |
 
 _(update weekly during Sunday review)_
 
@@ -60,23 +60,24 @@ _(update weekly during Sunday review)_
 <details>
 <summary>Click to expand — date-by-date solve history</summary>
 
-| Date       | Problem                             | Topic     | First try = optimal? |
-| ---------- | ----------------------------------- | --------- | -------------------- |
-| 2026-07-20 | Second Largest                      | Array     | ✅                   |
-| 2026-07-20 | Remove Duplicates from Sorted Array | Array     | ✅                   |
-| 2026-07-27 | Remove Element                      | Array     | ✅                   |
-| 2026-07-27 | Reverse String                      | Array     | ✅                   |
-| 2026-07-28 | Best Time to Buy and Sell Stock     | Array     | ✅                   |
-| 2026-07-28 | Merge Sorted Array                  | Array     | ❌                   |
-| 2026-08-01 | Move Zeroes                         | Array     | ❌                   |
-| 2026-08-01 | Max Consecutive Ones                | Array     | ✅                   |
-| 2026-09-01 | Missing Number                      | Array     | ✅                   |
-| 2026-09-01 | Single Number                       | Array     | ✅                   |
-| 2026-09-02 | Sum of first N Numbers              | Recursion | ✅                   |
-| 2026-09-03 | Sum of all numbers in array         | Recursion | ❌                   |
-| 2026-09-04 | Factorial of n                      | Recursion | ✅                   |
-| 2026-09-04 | Power of Two                        | Recursion | ✅                   |
-| 2026-09-05 | Fibonacci Number                    | Recursion | ✅                   |
+| Date       | Problem                             | Topic               | First try = optimal? |
+| ---------- | ----------------------------------- | ------------------- | -------------------- |
+| 2026-07-20 | Second Largest                      | Array               | ✅                   |
+| 2026-07-20 | Remove Duplicates from Sorted Array | Array               | ✅                   |
+| 2026-07-27 | Remove Element                      | Array               | ✅                   |
+| 2026-07-27 | Reverse String                      | Array               | ✅                   |
+| 2026-07-28 | Best Time to Buy and Sell Stock     | Array               | ✅                   |
+| 2026-07-28 | Merge Sorted Array                  | Array               | ❌                   |
+| 2026-08-01 | Move Zeroes                         | Array               | ❌                   |
+| 2026-08-01 | Max Consecutive Ones                | Array               | ✅                   |
+| 2026-09-01 | Missing Number                      | Array               | ✅                   |
+| 2026-09-01 | Single Number                       | Array               | ✅                   |
+| 2026-09-02 | Sum of first N Numbers              | Recursion           | ✅                   |
+| 2026-09-03 | Sum of all numbers in array         | Recursion           | ❌                   |
+| 2026-09-04 | Factorial of n                      | Recursion           | ✅                   |
+| 2026-09-04 | Power of Two                        | Recursion           | ✅                   |
+| 2026-09-05 | Fibonacci Number                    | Recursion           | ✅                   |
+| 2026-09-05 | Linear Search                       | Searching & Sorting | ✅                   |
 
 </details>
 
