@@ -47,9 +47,9 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 
 | Metric            | Count  |
 | ----------------- | ------ |
-| Topics completed  | 2 / 15 |
-| Problems solved   | 20     |
-| First-try optimal | 17     |
+| Topics completed  | 3 / 15 |
+| Problems solved   | 21     |
+| First-try optimal | 18     |
 
 _(update weekly during Sunday review)_
 
@@ -82,6 +82,7 @@ _(update weekly during Sunday review)_
 | 2026-09-08 | Bubble Sort                         | Searching & Sorting | ✅                   |
 | 2026-09-08 | Selection Sort                      | Searching & Sorting | ✅                   |
 | 2026-09-09 | Insertion Sort                      | Searching & Sorting | ✅                   |
+| 2026-09-09 | Merge Sort                          | Searching & Sorting | ✅                   |
 
 </details>
 
