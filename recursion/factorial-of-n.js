@@ -27,7 +27,7 @@ Why does 0! = 1?
 // ============================================
 // CONSTRAINTS
 // ============================================
-// 1 <= num <= 1000
+// 0 <= num <= 1000
 
 // ============================================
 // MY SOLUTION (before looking anything up)
@@ -54,6 +54,7 @@ function solve(num) {
 // NOTES
 // ============================================
 // - Edge cases to remember:
+//   - the n can be 0
 //
 // - Pattern this belongs to:
 //   - Recursion
@@ -81,3 +82,7 @@ console.log(result === 1);
 // Edge case: 2
 result = solve(2);
 console.log(result === 2);
+
+// Edge case: 3
+result = solve(0);
+console.log(result === 1);
