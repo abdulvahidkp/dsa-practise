@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 3 / 15 |
-| Problems solved   | 22     |
-| First-try optimal | 19     |
+| Problems solved   | 23     |
+| First-try optimal | 20     |
 
 _(update weekly during Sunday review)_
 
@@ -84,6 +84,7 @@ _(update weekly during Sunday review)_
 | 2026-09-09 | Insertion Sort                      | Searching & Sorting | ✅                   |
 | 2026-09-09 | Merge Sort                          | Searching & Sorting | ✅                   |
 | 2026-09-10 | Design Linked List                  | Linked List         | ✅                   |
+| 2026-09-12 | Middle of Linked List               | Linked List         | ✅                   |
 
 </details>
 
