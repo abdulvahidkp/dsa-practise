@@ -72,6 +72,7 @@ function solve(nums) {
 // - Mistake pattern (if any) — things to keep forgetting:
 //   - Forgetting to reduce the inner loop range.
 //   - Forgetting the `isSwapped` optimization.
+//   - Forgetting the condition for swapping values: nums[j] > nums[j + 1]
 
 // ============================================
 // TESTS

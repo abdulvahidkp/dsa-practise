@@ -82,6 +82,7 @@ function solve(nums) {
 //   - The inner loop should start from `i + 1` because the values before `i`
 //     are already sorted.
 //   - Selection Sort still takes O(n^2) time even when the array is already sorted coz we can't optimize the solution with a variable 'isSwapped' like we do for the bubble sort.
+//   - To find the minimum value, we check whether the current j value is smaller ( < ) than the current minimum value.
 
 // ============================================
 // TESTS
