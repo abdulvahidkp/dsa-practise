@@ -76,6 +76,9 @@ function solve(nums) {
 //   - We only need to put the currVal once all greater previous elements have // been shifted to the right and we have found the correct place for currVal.
 //   - `currIdx > 0` is the correct boundary because we access `nums[currIdx - 1]`.
 //   - The outer loop starts from index 1 because a single element at index 0 is already considered sorted.
+//   - We need to store the current value in `currVal` before shifting the
+//     elements. Otherwise, once the values are moved to the right, we will lose
+//     the original current value and won't be able to put it in the correct position.
 
 // ============================================
 // TESTS
