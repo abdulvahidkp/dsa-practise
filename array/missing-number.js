@@ -53,6 +53,9 @@ function solve(nums) {
 //   - Mathematical formula
 //
 // - Mistake pattern (if any) — things you keep forgetting:
+//   - We need to find the expected sum using `nums.length`, not `nums`.
+//   - The expected values range from `0` to `nums.length`, so `nums.length`
+//     itself can also be the missing value. so make sure to use nums.length while finding the expected sum
 
 // ============================================
 // TESTS
