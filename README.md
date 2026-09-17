@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 3 / 15 |
-| Problems solved   | 27     |
-| First-try optimal | 24     |
+| Problems solved   | 28     |
+| First-try optimal | 25     |
 
 _(update weekly during Sunday review)_
 
@@ -89,6 +89,7 @@ _(update weekly during Sunday review)_
 | 2026-09-13 | Linked List Cycle                   | Linked List         | ✅                   |
 | 2026-09-16 | Palindrome Linked List              | Linked List         | ✅                   |
 | 2026-09-16 | Intersection of Two Linked Lists    | Linked List         | ✅                   |
+| 2026-09-17 | Remove Linked List Elements         | Linked List         | ✅                   |
 
 </details>
 
