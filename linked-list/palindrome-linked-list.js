@@ -105,6 +105,13 @@ var isPalindrome = function (head) {
 //   - For an odd-length linked list, the middle node itself does not affect
 //     the palindrome comparison.
 //   - Remember that we are comparing node values, not node references.
+//   - The while-loop condition in the last palindrome check should be
+//     `rightEnd`, not `rightEnd.next`. We need to check the current `rightEnd`
+//     node as well. Using `rightEnd.next` would skip the last node of the
+//     reversed second half, which means we would not check that value.
+//   - Even for a larger palindrome, the last node of the reversed second half
+//     still needs to be compared. The middle node in an odd-length list is
+//     okay to compare because it will match itself.
 
 // ============================================
 // TESTS
