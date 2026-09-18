@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 3 / 15 |
-| Problems solved   | 29     |
-| First-try optimal | 25     |
+| Problems solved   | 30     |
+| First-try optimal | 26     |
 
 _(update weekly during Sunday review)_
 
@@ -91,6 +91,7 @@ _(update weekly during Sunday review)_
 | 2026-09-16 | Intersection of Two Linked Lists    | Linked List         | ✅                   |
 | 2026-09-17 | Remove Linked List Elements         | Linked List         | ✅                   |
 | 2026-09-17 | Remove Nth Node From End of List    | Linked List         | ❌                   |
+| 2026-09-18 | Remove Duplicates from Sorted List  | Linked List         | ✅                   |
 
 </details>
 
