@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 3 / 15 |
-| Problems solved   | 31     |
-| First-try optimal | 27     |
+| Problems solved   | 32     |
+| First-try optimal | 28     |
 
 _(update weekly during Sunday review)_
 
@@ -93,6 +93,7 @@ _(update weekly during Sunday review)_
 | 2026-09-17 | Remove Nth Node From End of List    | Linked List         | ❌                   |
 | 2026-09-18 | Remove Duplicates from Sorted List  | Linked List         | ✅                   |
 | 2026-09-18 | Odd Even Linked List                | Linked List         | ✅                   |
+| 2026-09-19 | Add Two Numbers                     | Linked List         | ✅                   |
 
 </details>
 
