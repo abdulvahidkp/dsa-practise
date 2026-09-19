@@ -24,8 +24,10 @@
 // - Basically, if there is a node after `evenNode`, we need to run the loop.
 //   This allows us to move both the odd and even pointers two nodes forward
 //   and correctly update their `next` pointers. and the even node will recieve a null as well.
-// - Inside the loop, we update the `next` pointer of both the odd and even
-//   nodes to point to the next node in their respective groups.
+// - Inside the loop, we need to update the odd pointer first and the even
+//   pointer second. If we update the even pointer first, it changes the link
+//   that the odd pointer uses. Then `oddNode.next.next` would point one node
+//   further than we expect.
 // - Once the loop ends, we connect the end of the odd list to the starting
 //   node of the even list using `oddNode.next = evenStart`.
 // - Finally, return the original `head`.
@@ -89,6 +91,8 @@ var oddEvenList = function (head) {
 //     indexed node and the even to the even indexed node or null
 //   - After separating the odd and even nodes, connect the end of the odd
 //     list to `evenStart`.
+//   - Always update `oddNode` first and `evenNode` second. If we update the
+//     even pointer first, the odd `next` pointer will not point to the correct node.
 
 // ============================================
 // TESTS
