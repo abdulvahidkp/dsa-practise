@@ -60,6 +60,18 @@ var swapPairs = function (head) {
   return sentinelNode.next;
 };
 
+// recursive way
+var swapPairsRecursive = function (head) {
+  if (!head || !head.next) return head;
+
+  const currNext = head.next;
+
+  head.next = swapPairsRecursive(head.next.next);
+  currNext.next = head;
+
+  return currNext;
+};
+
 // ============================================
 // OPTIMAL SOLUTION
 // ============================================
