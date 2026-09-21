@@ -62,6 +62,7 @@ function solve(num) {
 //
 // - Mistake pattern (if any) — things you keep forgetting:
 //   - Recursion uses the call stack, so recursive solutions can have O(n) space.
+//   - if 0 or 1, return 1.
 
 // ============================================
 // TESTS
