@@ -82,7 +82,7 @@ function solveOptimal(nums) {
 //
 // - Mistake pattern (things to keep forgetting):
 //   - Don't increment the write pointer when the current value is 0.
-//   - The optimized solution avoids another pass by setting the current position to 0 immediately after moving a non-zero value.
+//   - The optimized solution avoids another pass by setting the current position to 0 immediately after moving a non-zero value. but when doing this, if the curr i and the pointer is same and non-zero then setting to zero after updating value in pointer will make some inconsistencies. for example: [1] at this case. so make sure to use if(i === pointer) or set the 0 first, and the set the curr val next.
 
 // ============================================
 // TESTS
