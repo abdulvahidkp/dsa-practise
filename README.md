@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 4 / 15 |
-| Problems solved   | 38     |
-| First-try optimal | 34     |
+| Problems solved   | 39     |
+| First-try optimal | 35     |
 
 _(update weekly during Sunday review)_
 
@@ -60,46 +60,47 @@ _(update weekly during Sunday review)_
 <details>
 <summary>Click to expand — date-by-date solve history</summary>
 
-| Date       | Problem                             | Topic               | First try = optimal? |
-| ---------- | ----------------------------------- | ------------------- | -------------------- |
-| 2026-07-20 | Second Largest                      | Array               | ✅                   |
-| 2026-07-20 | Remove Duplicates from Sorted Array | Array               | ✅                   |
-| 2026-07-27 | Remove Element                      | Array               | ✅                   |
-| 2026-07-27 | Reverse String                      | Array               | ✅                   |
-| 2026-07-28 | Best Time to Buy and Sell Stock     | Array               | ✅                   |
-| 2026-07-28 | Merge Sorted Array                  | Array               | ❌                   |
-| 2026-08-01 | Move Zeroes                         | Array               | ❌                   |
-| 2026-08-01 | Max Consecutive Ones                | Array               | ✅                   |
-| 2026-09-01 | Missing Number                      | Array               | ✅                   |
-| 2026-09-01 | Single Number                       | Array               | ✅                   |
-| 2026-09-02 | Sum of first N Numbers              | Recursion           | ✅                   |
-| 2026-09-03 | Sum of all numbers in array         | Recursion           | ❌                   |
-| 2026-09-04 | Factorial of n                      | Recursion           | ✅                   |
-| 2026-09-04 | Power of Two                        | Recursion           | ✅                   |
-| 2026-09-05 | Fibonacci Number                    | Recursion           | ✅                   |
-| 2026-09-06 | Linear Search                       | Searching & Sorting | ✅                   |
-| 2026-09-06 | Binary Search                       | Searching & Sorting | ✅                   |
-| 2026-09-08 | Bubble Sort                         | Searching & Sorting | ✅                   |
-| 2026-09-08 | Selection Sort                      | Searching & Sorting | ✅                   |
-| 2026-09-09 | Insertion Sort                      | Searching & Sorting | ✅                   |
-| 2026-09-09 | Merge Sort                          | Searching & Sorting | ✅                   |
-| 2026-09-10 | Design Linked List                  | Linked List         | ✅                   |
-| 2026-09-12 | Middle of Linked List               | Linked List         | ✅                   |
-| 2026-09-13 | Reverse Linked List                 | Linked List         | ✅                   |
-| 2026-09-13 | Linked List Cycle                   | Linked List         | ✅                   |
-| 2026-09-16 | Palindrome Linked List              | Linked List         | ✅                   |
-| 2026-09-16 | Intersection of Two Linked Lists    | Linked List         | ✅                   |
-| 2026-09-17 | Remove Linked List Elements         | Linked List         | ✅                   |
-| 2026-09-17 | Remove Nth Node From End of List    | Linked List         | ❌                   |
-| 2026-09-18 | Remove Duplicates from Sorted List  | Linked List         | ✅                   |
-| 2026-09-18 | Odd Even Linked List                | Linked List         | ✅                   |
-| 2026-09-19 | Add Two Numbers                     | Linked List         | ✅                   |
-| 2026-09-19 | Merge Two Sorted Lists              | Linked List         | ✅                   |
-| 2026-09-20 | Rotate List                         | Linked List         | ✅                   |
-| 2026-09-20 | Swap Nodes in Pairs                 | Linked List         | ✅                   |
-| 2026-09-21 | Length of Last Word                 | String              | ✅                   |
-| 2026-09-21 | FindFind Words Containing Character | String              | ✅                   |
-| 2026-09-24 | Jewels and Stones                   | String              | ✅                   |
+| Date       | Problem                                | Topic               | First try = optimal? |
+| ---------- | -------------------------------------- | ------------------- | -------------------- |
+| 2026-07-20 | Second Largest                         | Array               | ✅                   |
+| 2026-07-20 | Remove Duplicates from Sorted Array    | Array               | ✅                   |
+| 2026-07-27 | Remove Element                         | Array               | ✅                   |
+| 2026-07-27 | Reverse String                         | Array               | ✅                   |
+| 2026-07-28 | Best Time to Buy and Sell Stock        | Array               | ✅                   |
+| 2026-07-28 | Merge Sorted Array                     | Array               | ❌                   |
+| 2026-08-01 | Move Zeroes                            | Array               | ❌                   |
+| 2026-08-01 | Max Consecutive Ones                   | Array               | ✅                   |
+| 2026-09-01 | Missing Number                         | Array               | ✅                   |
+| 2026-09-01 | Single Number                          | Array               | ✅                   |
+| 2026-09-02 | Sum of first N Numbers                 | Recursion           | ✅                   |
+| 2026-09-03 | Sum of all numbers in array            | Recursion           | ❌                   |
+| 2026-09-04 | Factorial of n                         | Recursion           | ✅                   |
+| 2026-09-04 | Power of Two                           | Recursion           | ✅                   |
+| 2026-09-05 | Fibonacci Number                       | Recursion           | ✅                   |
+| 2026-09-06 | Linear Search                          | Searching & Sorting | ✅                   |
+| 2026-09-06 | Binary Search                          | Searching & Sorting | ✅                   |
+| 2026-09-08 | Bubble Sort                            | Searching & Sorting | ✅                   |
+| 2026-09-08 | Selection Sort                         | Searching & Sorting | ✅                   |
+| 2026-09-09 | Insertion Sort                         | Searching & Sorting | ✅                   |
+| 2026-09-09 | Merge Sort                             | Searching & Sorting | ✅                   |
+| 2026-09-10 | Design Linked List                     | Linked List         | ✅                   |
+| 2026-09-12 | Middle of Linked List                  | Linked List         | ✅                   |
+| 2026-09-13 | Reverse Linked List                    | Linked List         | ✅                   |
+| 2026-09-13 | Linked List Cycle                      | Linked List         | ✅                   |
+| 2026-09-16 | Palindrome Linked List                 | Linked List         | ✅                   |
+| 2026-09-16 | Intersection of Two Linked Lists       | Linked List         | ✅                   |
+| 2026-09-17 | Remove Linked List Elements            | Linked List         | ✅                   |
+| 2026-09-17 | Remove Nth Node From End of List       | Linked List         | ❌                   |
+| 2026-09-18 | Remove Duplicates from Sorted List     | Linked List         | ✅                   |
+| 2026-09-18 | Odd Even Linked List                   | Linked List         | ✅                   |
+| 2026-09-19 | Add Two Numbers                        | Linked List         | ✅                   |
+| 2026-09-19 | Merge Two Sorted Lists                 | Linked List         | ✅                   |
+| 2026-09-20 | Rotate List                            | Linked List         | ✅                   |
+| 2026-09-20 | Swap Nodes in Pairs                    | Linked List         | ✅                   |
+| 2026-09-21 | Length of Last Word                    | String              | ✅                   |
+| 2026-09-21 | Find Words Containing Character        | String              | ✅                   |
+| 2026-09-24 | Jewels and Stones                      | String              | ✅                   |
+| 2026-09-24 | Find Most Frequent Vowel and Consonant | String              | ✅                   |
 
 </details>
 

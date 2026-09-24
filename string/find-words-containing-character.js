@@ -5,11 +5,8 @@
 // ============================================
 // PROBLEM
 // ============================================
-// - Given an array of strings `words` and a character `x`.
-// - Return an array containing the indices of the words that contain `x`.
-//
-// - Each index should be added only once, even if `x` appears multiple times
-//   in the same word.
+
+// Refer to the LeetCode problem for the full problem statement.
 
 // ============================================
 // APPROACH
