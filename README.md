@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 4 / 15 |
-| Problems solved   | 37     |
-| First-try optimal | 33     |
+| Problems solved   | 38     |
+| First-try optimal | 34     |
 
 _(update weekly during Sunday review)_
 
@@ -99,6 +99,7 @@ _(update weekly during Sunday review)_
 | 2026-09-20 | Swap Nodes in Pairs                 | Linked List         | ✅                   |
 | 2026-09-21 | Length of Last Word                 | String              | ✅                   |
 | 2026-09-21 | FindFind Words Containing Character | String              | ✅                   |
+| 2026-09-24 | Jewels and Stones                   | String              | ✅                   |
 
 </details>
 
