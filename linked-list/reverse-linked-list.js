@@ -60,6 +60,7 @@ var reverseList = function (head) {
 // - Mistake pattern (things to keep forgetting):
 //   - Before changing `currNode.next`, make sure to store its original value in `nextNode`, otherwise we will lose the rest of the linked list
 //   -`prevNode` should initially be `null` because the original head becomes the last node after reversal, so its next should point to null.
+//   - we doesn't need sentinal node for this problem, we just only have to set null for the prev variable.
 
 // ============================================
 // TESTS
