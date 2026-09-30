@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 4 / 15 |
-| Problems solved   | 40     |
-| First-try optimal | 36     |
+| Problems solved   | 41     |
+| First-try optimal | 37     |
 
 _(update weekly during Sunday review)_
 
@@ -102,6 +102,7 @@ _(update weekly during Sunday review)_
 | 2026-09-24 | Jewels and Stones                      | String              | ✅                   |
 | 2026-09-24 | Find Most Frequent Vowel and Consonant | String              | ✅                   |
 | 2026-09-28 | Split a String in Balanced Strings     | String              | ✅                   |
+| 2026-09-30 | Reverse String II                      | String              | ✅                   |
 
 </details>
 
