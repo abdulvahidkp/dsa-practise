@@ -81,19 +81,6 @@ function isAlphanumeric(char) {
 // few variables.
 
 // ============================================
-// PATTERN THIS BELONGS TO
-// ============================================
-// - Two Pointers
-//
-// - String Traversal
-//
-// - Palindrome
-//
-// - Character Validation
-//
-// - In-place / Constant Space Processing
-
-// ============================================
 // NOTES
 // ============================================
 
@@ -106,7 +93,8 @@ function isAlphanumeric(char) {
 //   - Non-alphanumeric characters can appear anywhere in the string.
 //
 // - Pattern this belongs to:
-//   - Two pointers moving towards each other from both ends.
+//   - Two Pointers
+//   - In-place / Constant Space Processing
 //
 // - Mistake pattern (things to keep forgetting):
 //   - Skip non-alphanumeric characters before comparing.
