@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 4 / 15 |
-| Problems solved   | 44     |
-| First-try optimal | 40     |
+| Problems solved   | 45     |
+| First-try optimal | 41     |
 
 _(update weekly during Sunday review)_
 
@@ -106,6 +106,7 @@ _(update weekly during Sunday review)_
 | 2026-10-02 | Valid Palindrome                       | String              | ✅                   |
 | 2026-10-03 | Largest Odd Number in String           | String              | ✅                   |
 | 2026-10-03 | Longest Common Prefix                  | String              | ✅                   |
+| 2026-10-05 | Valid Anagram                          | String              | ✅                   |
 
 </details>
 
