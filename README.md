@@ -47,9 +47,9 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 
 | Metric            | Count  |
 | ----------------- | ------ |
-| Topics completed  | 4 / 15 |
-| Problems solved   | 46     |
-| First-try optimal | 42     |
+| Topics completed  | 5 / 15 |
+| Problems solved   | 47     |
+| First-try optimal | 43     |
 
 _(update weekly during Sunday review)_
 
@@ -108,6 +108,7 @@ _(update weekly during Sunday review)_
 | 2026-10-03 | Longest Common Prefix                  | String              | ✅                   |
 | 2026-10-05 | Valid Anagram                          | String              | ✅                   |
 | 2026-10-07 | Isomorphic Strings                     | String              | ✅                   |
+| 2026-10-12 | Group Anagrams                         | String              | ✅                   |
 
 </details>
 
