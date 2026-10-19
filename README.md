@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 5 / 15 |
-| Problems solved   | 48     |
-| First-try optimal | 44     |
+| Problems solved   | 49     |
+| First-try optimal | 45     |
 
 _(update weekly during Sunday review)_
 
@@ -110,6 +110,7 @@ _(update weekly during Sunday review)_
 | 2026-10-07 | Isomorphic Strings                     | String              | ✅                   |
 | 2026-10-12 | Group Anagrams                         | String              | ✅                   |
 | 2026-10-18 | Implement Stack using Queues           | Stack and Queues    | ✅                   |
+| 2026-10-19 | Implement Queue using Stacks           | Stack and Queues    | ✅                   |
 
 </details>
 
