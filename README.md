@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 5 / 15 |
-| Problems solved   | 50     |
-| First-try optimal | 46     |
+| Problems solved   | 51     |
+| First-try optimal | 47     |
 
 _(update weekly during Sunday review)_
 
@@ -112,6 +112,7 @@ _(update weekly during Sunday review)_
 | 2026-10-18 | Implement Stack using Queues           | Stack and Queues    | ✅                   |
 | 2026-10-19 | Implement Queue using Stacks           | Stack and Queues    | ✅                   |
 | 2026-10-21 | Valid Parentheses                      | Stack and Queues    | ✅                   |
+| 2026-10-21 | Min Stack                              | Stack and Queues    | ✅                   |
 
 </details>
 
