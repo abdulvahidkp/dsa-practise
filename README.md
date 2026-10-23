@@ -48,8 +48,8 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 5 / 15 |
-| Problems solved   | 52     |
-| First-try optimal | 48     |
+| Problems solved   | 53     |
+| First-try optimal | 49     |
 
 _(update weekly during Sunday review)_
 
@@ -114,6 +114,7 @@ _(update weekly during Sunday review)_
 | 2026-10-21 | Valid Parentheses                      | Stack and Queues    | ✅                   |
 | 2026-10-21 | Min Stack                              | Stack and Queues    | ✅                   |
 | 2026-10-22 | Remove Outermost Parentheses           | Stack and Queues    | ✅                   |
+| 2026-10-23 | Evaluate Reverse Polish Notation       | Stack and Queues    | ✅                   |
 
 </details>
 
