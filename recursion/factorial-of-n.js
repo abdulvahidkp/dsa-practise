@@ -38,7 +38,7 @@ Why does 0! = 1?
 // Time: O(n)  Space: O(n)
 
 function solve(num) {
-  if (num === 1) return 1;
+  if (num <= 1) return 1;
 
   return num * solve(num - 1);
 }
