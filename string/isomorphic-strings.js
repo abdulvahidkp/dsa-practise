@@ -93,6 +93,17 @@ var isIsomorphic = function (s, t) {
 //   - A character can map to itself, for example:
 //       s = "paper"
 //       t = "title"
+//
+//   - Do not assume that if both mappings (`sToT` and `tToS`) exist,
+//     the strings are automatically isomorphic. The mappings must match
+//     the current characters.
+//     Example:
+//       s = "bbbbaaa"
+//       t = "aaaabba"
+//     This is false because `b -> a` and `a -> b` are established initially,
+//     but later the mappings become inconsistent.
+//     Always check whether the existing mapping matches the current
+//     character before returning true or continuing.
 
 // - Pattern this belongs to:
 //   - Hash Map / Object
