@@ -48,7 +48,7 @@ See [`notes/patterns.md`](./notes/patterns.md) for the growing "when you see X, 
 | Metric            | Count  |
 | ----------------- | ------ |
 | Topics completed  | 5 / 15 |
-| Problems solved   | 55     |
+| Problems solved   | 56     |
 | First-try optimal | 50     |
 
 _(update weekly during Sunday review)_
@@ -117,6 +117,7 @@ _(update weekly during Sunday review)_
 | 2026-10-23 | Evaluate Reverse Polish Notation       | Stack and Queues    | ✅                   |
 | 2026-10-26 | Next Greater Element I                 | Stack and Queues    | ❌                   |
 | 2026-10-26 | Daily Temperatures                     | Stack and Queues    | ✅                   |
+| 2026-11-02 | Next Greater Element II                | Stack and Queues    | ✅                   |
 
 </details>
 
